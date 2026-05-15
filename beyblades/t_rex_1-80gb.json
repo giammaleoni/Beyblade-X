@@ -1,0 +1,30 @@
+{
+  "Nome completo": "T. Rex 1-80GB",
+  "Linea": "Jurassic World Collab",
+  "Tipo": "Resistenza",
+  "Direzione spin": "Right",
+  "Lama": {
+    "Nome": "T. Rex",
+    "Linea": "Jurassic World Collab",
+    "Tipo": "Resistenza",
+    "Direzione spin": "Right",
+    "Attacco": 65,
+    "Difesa": 30,
+    "Resistenza": 5
+  },
+  "Cricchetto": {
+    "Nome": "1-80",
+    "Attacco": 7,
+    "Difesa": 4,
+    "Resistenza": 9,
+    "Altezza": 80
+  },
+  "Punta": {
+    "Nome": "GB",
+    "Attacco": 10,
+    "Difesa": 15,
+    "Resistenza": 45,
+    "Propulsione": 30,
+    "Esplosione": 30
+  }
+}

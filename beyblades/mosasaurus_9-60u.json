@@ -1,0 +1,30 @@
+{
+  "Nome completo": "Mosasaurus 9-60U",
+  "Linea": "Jurassic World Collab",
+  "Tipo": "Equilibrio",
+  "Direzione spin": "Right",
+  "Lama": {
+    "Nome": "Mosasaurus",
+    "Linea": "Jurassic World Collab",
+    "Tipo": "Equilibrio",
+    "Direzione spin": "Right",
+    "Attacco": 32,
+    "Difesa": 55,
+    "Resistenza": 13
+  },
+  "Cricchetto": {
+    "Nome": "9-60",
+    "Attacco": 13,
+    "Difesa": 10,
+    "Resistenza": 7,
+    "Altezza": 60
+  },
+  "Punta": {
+    "Nome": "U",
+    "Attacco": 25,
+    "Difesa": 25,
+    "Resistenza": 30,
+    "Propulsione": 20,
+    "Esplosione": 80
+  }
+}

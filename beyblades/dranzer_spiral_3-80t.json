@@ -1,0 +1,30 @@
+{
+  "Nome completo": "Dranzer Spiral 3-80T",
+  "Linea": "X-Over Project",
+  "Tipo": "Equilibrio",
+  "Direzione spin": "Right",
+  "Lama": {
+    "Nome": "Dranzer Spiral",
+    "Linea": "X-Over Project",
+    "Tipo": "Equilibrio",
+    "Direzione spin": "Right",
+    "Attacco": 35,
+    "Difesa": 30,
+    "Resistenza": 35
+  },
+  "Cricchetto": {
+    "Nome": "3-80",
+    "Attacco": 15,
+    "Difesa": 7,
+    "Resistenza": 8,
+    "Altezza": 80
+  },
+  "Punta": {
+    "Nome": "T",
+    "Attacco": 35,
+    "Difesa": 20,
+    "Resistenza": 20,
+    "Propulsione": 25,
+    "Esplosione": 80
+  }
+}

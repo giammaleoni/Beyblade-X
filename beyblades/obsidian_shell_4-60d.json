@@ -1,0 +1,30 @@
+{
+  "Nome completo": "Obsidian Shell 4-60D",
+  "Linea": "Basic Line",
+  "Tipo": "Difesa",
+  "Direzione spin": "Right",
+  "Lama": {
+    "Nome": "Obsidian Shell",
+    "Linea": "Basic Line",
+    "Tipo": "Difesa",
+    "Direzione spin": "Right",
+    "Attacco": 10,
+    "Difesa": 65,
+    "Resistenza": 25
+  },
+  "Cricchetto": {
+    "Nome": "4-60",
+    "Attacco": 11,
+    "Difesa": 15,
+    "Resistenza": 6,
+    "Altezza": 60
+  },
+  "Punta": {
+    "Nome": "D",
+    "Attacco": 10,
+    "Difesa": 55,
+    "Resistenza": 25,
+    "Propulsione": 10,
+    "Esplosione": 50
+  }
+}

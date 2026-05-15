@@ -1,0 +1,31 @@
+{
+  "Nome completo": "Sword Dran 3-60F",
+  "Link immagine": "https://beycommunity.com/en/x/products/sword-dran/",
+  "Linea": "Basic Line",
+  "Tipo": "Attacco",
+  "Direzione spin": "Right",
+  "Lama": {
+    "Nome": "Dran Sword",
+    "Linea": "Basic Line",
+    "Tipo": "Attacco",
+    "Direzione spin": "Right",
+    "Attacco": 55,
+    "Difesa": 25,
+    "Resistenza": 20
+  },
+  "Cricchetto": {
+    "Nome": "3-60",
+    "Attacco": 15,
+    "Difesa": 9,
+    "Resistenza": 6,
+    "Altezza": 60
+  },
+  "Punta": {
+    "Nome": "F",
+    "Attacco": 40,
+    "Difesa": 15,
+    "Resistenza": 10,
+    "Propulsione": 35,
+    "Esplosione": 80
+  }
+}

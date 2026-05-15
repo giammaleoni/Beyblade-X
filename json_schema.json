@@ -1,0 +1,195 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Beyblade X",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "Nome completo": {
+      "type": "string"
+    },
+    "Link immagine": {
+      "type": "string",
+      "format": "uri"
+    },
+    "Linea": {
+      "type": "string"
+    },
+    "Tipo": {
+      "type": "string",
+      "enum": [
+        "Attacco",
+        "Difesa",
+        "Resistenza",
+        "Equilibrio"
+      ]
+    },
+    "Direzione spin": {
+      "type": "string",
+      "enum": [
+        "Left",
+        "Right"
+      ]
+    },
+    "Lama": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "Nome": {
+          "type": "string"
+        },
+        "Linea": {
+          "type": "string"
+        },
+        "Tipo": {
+          "type": "string",
+          "enum": [
+            "Attacco",
+            "Difesa",
+            "Resistenza",
+            "Equilibrio"
+          ]
+        },
+        "Direzione spin": {
+          "type": "string",
+          "enum": [
+            "Left",
+            "Right"
+          ]
+        },
+        "Attacco": {
+          "type": "number"
+        },
+        "Difesa": {
+          "type": "number"
+        },
+        "Resistenza": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "Nome",
+        "Linea",
+        "Tipo",
+        "Direzione spin",
+        "Attacco",
+        "Difesa",
+        "Resistenza"
+      ]
+    },
+    "Cricchetto": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "Nome": {
+          "type": "string",
+          "pattern": "^[0-9]-[0-9]{2}$"
+        },
+        "Attacco": {
+          "type": "number"
+        },
+        "Difesa": {
+          "type": "number"
+        },
+        "Resistenza": {
+          "type": "number"
+        },
+        "Altezza": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "Nome",
+        "Attacco",
+        "Difesa",
+        "Resistenza",
+        "Altezza"
+      ]
+    },
+    "Punta": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "Nome": {
+          "type": "string",
+          "enum": [
+            "F",
+            "T",
+            "B",
+            "N",
+            "HN",
+            "LF",
+            "P",
+            "O",
+            "S",
+            "R",
+            "HT",
+            "GF",
+            "GB",
+            "GP",
+            "GN",
+            "U",
+            "C",
+            "E",
+            "TP",
+            "M",
+            "D",
+            "A",
+            "H",
+            "DB",
+            "MN",
+            "G",
+            "FB",
+            "L",
+            "BS",
+            "LR",
+            "UN",
+            "Z",
+            "J",
+            "UF",
+            "V",
+            "LO",
+            "W",
+            "K",
+            "GR",
+            "Tr",
+            "WB",
+            "TK",
+            "Op"
+          ]
+        },
+        "Attacco": {
+          "type": "number"
+        },
+        "Difesa": {
+          "type": "number"
+        },
+        "Resistenza": {
+          "type": "number"
+        },
+        "Propulsione": {
+          "type": "number"
+        },
+        "Esplosione": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "Nome",
+        "Attacco",
+        "Difesa",
+        "Resistenza",
+        "Propulsione",
+        "Esplosione"
+      ]
+    }
+  },
+  "required": [
+    "Nome completo",
+    "Linea",
+    "Tipo",
+    "Direzione spin",
+    "Lama",
+    "Cricchetto",
+    "Punta"
+  ]
+}

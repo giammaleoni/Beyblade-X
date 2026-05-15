@@ -1,0 +1,30 @@
+{
+  "Nome completo": "Yell Kong 3-60GB",
+  "Linea": "Basic Line",
+  "Tipo": "Resistenza",
+  "Direzione spin": "Right",
+  "Lama": {
+    "Nome": "Yell Kong",
+    "Linea": "Basic Line",
+    "Tipo": "Resistenza",
+    "Direzione spin": "Right",
+    "Attacco": 13,
+    "Difesa": 37,
+    "Resistenza": 50
+  },
+  "Cricchetto": {
+    "Nome": "3-60",
+    "Attacco": 15,
+    "Difesa": 9,
+    "Resistenza": 6,
+    "Altezza": 60
+  },
+  "Punta": {
+    "Nome": "GB",
+    "Attacco": 10,
+    "Difesa": 15,
+    "Resistenza": 45,
+    "Propulsione": 30,
+    "Esplosione": 30
+  }
+}

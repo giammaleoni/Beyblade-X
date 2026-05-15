@@ -1,0 +1,30 @@
+{
+  "Nome completo": "Driger Slash 4-80P",
+  "Linea": "X-Over Project",
+  "Tipo": "Equilibrio",
+  "Direzione spin": "Right",
+  "Lama": {
+    "Nome": "Driger Slash",
+    "Linea": "X-Over Project",
+    "Tipo": "Equilibrio",
+    "Direzione spin": "Right",
+    "Attacco": 40,
+    "Difesa": 35,
+    "Resistenza": 25
+  },
+  "Cricchetto": {
+    "Nome": "4-80",
+    "Attacco": 11,
+    "Difesa": 11,
+    "Resistenza": 8,
+    "Altezza": 80
+  },
+  "Punta": {
+    "Nome": "P",
+    "Attacco": 25,
+    "Difesa": 25,
+    "Resistenza": 25,
+    "Propulsione": 25,
+    "Esplosione": 80
+  }
+}

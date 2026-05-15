@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>La Mia Collezione Beyblade X</title>
+    <meta name="description" content="Sito statico interattivo per esplorare una collezione personale Beyblade X.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Orbitron:wght@700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#sfoglia" aria-label="Vai alla sezione sfoglia">
+        <span class="brand-x">X</span>
+        <span>MY BEYBLADE X COLLECTION</span>
+      </a>
+      <span id="blade-count" class="count">0 blade</span>
+      <nav aria-label="Sezioni principali">
+        <button class="nav-tab is-active" data-route="sfoglia" type="button">Sfoglia</button>
+        <button class="nav-tab" data-route="lista" type="button">Lista</button>
+        <button class="nav-tab" data-route="componi" type="button">Componi</button>
+        <button class="nav-tab" data-route="random" type="button">Random</button>
+      </nav>
+    </header>
+
+    <main>
+      <section id="sfoglia" class="app-section is-active"></section>
+      <section id="lista" class="app-section"></section>
+      <section id="componi" class="app-section"></section>
+      <section id="random" class="app-section"></section>
+    </main>
+
+    <div id="detail-modal" class="modal" role="dialog" aria-modal="true" aria-label="Dettaglio Beyblade" hidden>
+      <div class="modal-body"></div>
+    </div>
+
+    <script src="assets/js/scoring.js"></script>
+    <script src="assets/js/data.js"></script>
+    <script src="assets/js/slider.js"></script>
+    <script src="assets/js/list.js"></script>
+    <script src="assets/js/builder.js"></script>
+    <script src="assets/js/random.js"></script>
+    <script src="assets/js/app.js"></script>
+  </body>
+</html>

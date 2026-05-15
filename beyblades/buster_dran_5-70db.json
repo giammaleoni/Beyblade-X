@@ -1,0 +1,30 @@
+{
+  "Nome completo": "Buster Dran 5-70DB",
+  "Linea": "Unique Line",
+  "Tipo": "Resistenza",
+  "Direzione spin": "Right",
+  "Lama": {
+    "Nome": "Buster Dran",
+    "Linea": "Unique Line",
+    "Tipo": "Resistenza",
+    "Direzione spin": "Right",
+    "Attacco": 70,
+    "Difesa": 20,
+    "Resistenza": 10
+  },
+  "Cricchetto": {
+    "Nome": "5-70",
+    "Attacco": 12,
+    "Difesa": 8.5,
+    "Resistenza": 9.5,
+    "Altezza": 70
+  },
+  "Punta": {
+    "Nome": "DB",
+    "Attacco": 15,
+    "Difesa": 20,
+    "Resistenza": 55,
+    "Propulsione": 10,
+    "Esplosione": 30
+  }
+}

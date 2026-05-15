@@ -1,0 +1,30 @@
+{
+  "Nome completo": "Shelter Drake 5-70O",
+  "Linea": "Basic Line",
+  "Tipo": "Resistenza",
+  "Direzione spin": "Right",
+  "Lama": {
+    "Nome": "Shelter Drake",
+    "Linea": "Basic Line",
+    "Tipo": "Resistenza",
+    "Direzione spin": "Right",
+    "Attacco": 25,
+    "Difesa": 40,
+    "Resistenza": 35
+  },
+  "Cricchetto": {
+    "Nome": "5-70",
+    "Attacco": 12,
+    "Difesa": 8.5,
+    "Resistenza": 9.5,
+    "Altezza": 70
+  },
+  "Punta": {
+    "Nome": "O",
+    "Attacco": 10,
+    "Difesa": 30,
+    "Resistenza": 50,
+    "Propulsione": 10,
+    "Esplosione": 30
+  }
+}

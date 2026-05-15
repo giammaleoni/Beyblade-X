@@ -1,0 +1,74 @@
+[
+  {
+    "Nome completo": "Buster Dran 5-70DB",
+    "Linea": "Unique Line",
+    "Tipo": "Resistenza",
+    "Direzione spin": "Right",
+    "Lama": { "Nome": "Buster Dran", "Linea": "Unique Line", "Tipo": "Resistenza", "Direzione spin": "Right", "Attacco": 70, "Difesa": 20, "Resistenza": 10 },
+    "Cricchetto": { "Nome": "5-70", "Attacco": 12, "Difesa": 8.5, "Resistenza": 9.5, "Altezza": 70 },
+    "Punta": { "Nome": "DB", "Attacco": 15, "Difesa": 20, "Resistenza": 55, "Propulsione": 10, "Esplosione": 30 }
+  },
+  {
+    "Nome completo": "Dranzer Spiral 3-80T",
+    "Linea": "X-Over Project",
+    "Tipo": "Equilibrio",
+    "Direzione spin": "Right",
+    "Lama": { "Nome": "Dranzer Spiral", "Linea": "X-Over Project", "Tipo": "Equilibrio", "Direzione spin": "Right", "Attacco": 35, "Difesa": 30, "Resistenza": 35 },
+    "Cricchetto": { "Nome": "3-80", "Attacco": 15, "Difesa": 7, "Resistenza": 8, "Altezza": 80 },
+    "Punta": { "Nome": "T", "Attacco": 35, "Difesa": 20, "Resistenza": 20, "Propulsione": 25, "Esplosione": 80 }
+  },
+  {
+    "Nome completo": "Driger Slash 4-80P",
+    "Linea": "X-Over Project",
+    "Tipo": "Equilibrio",
+    "Direzione spin": "Right",
+    "Lama": { "Nome": "Driger Slash", "Linea": "X-Over Project", "Tipo": "Equilibrio", "Direzione spin": "Right", "Attacco": 40, "Difesa": 35, "Resistenza": 25 },
+    "Cricchetto": { "Nome": "4-80", "Attacco": 11, "Difesa": 11, "Resistenza": 8, "Altezza": 80 },
+    "Punta": { "Nome": "P", "Attacco": 25, "Difesa": 25, "Resistenza": 25, "Propulsione": 25, "Esplosione": 80 }
+  },
+  {
+    "Nome completo": "Mosasaurus 9-60U",
+    "Linea": "Jurassic World Collab",
+    "Tipo": "Equilibrio",
+    "Direzione spin": "Right",
+    "Lama": { "Nome": "Mosasaurus", "Linea": "Jurassic World Collab", "Tipo": "Equilibrio", "Direzione spin": "Right", "Attacco": 32, "Difesa": 55, "Resistenza": 13 },
+    "Cricchetto": { "Nome": "9-60", "Attacco": 13, "Difesa": 10, "Resistenza": 7, "Altezza": 60 },
+    "Punta": { "Nome": "U", "Attacco": 25, "Difesa": 25, "Resistenza": 30, "Propulsione": 20, "Esplosione": 80 }
+  },
+  {
+    "Nome completo": "Obsidian Shell 4-60D",
+    "Linea": "Basic Line",
+    "Tipo": "Difesa",
+    "Direzione spin": "Right",
+    "Lama": { "Nome": "Obsidian Shell", "Linea": "Basic Line", "Tipo": "Difesa", "Direzione spin": "Right", "Attacco": 10, "Difesa": 65, "Resistenza": 25 },
+    "Cricchetto": { "Nome": "4-60", "Attacco": 11, "Difesa": 15, "Resistenza": 6, "Altezza": 60 },
+    "Punta": { "Nome": "D", "Attacco": 10, "Difesa": 55, "Resistenza": 25, "Propulsione": 10, "Esplosione": 50 }
+  },
+  {
+    "Nome completo": "Shelter Drake 5-70O",
+    "Linea": "Basic Line",
+    "Tipo": "Resistenza",
+    "Direzione spin": "Right",
+    "Lama": { "Nome": "Shelter Drake", "Linea": "Basic Line", "Tipo": "Resistenza", "Direzione spin": "Right", "Attacco": 25, "Difesa": 40, "Resistenza": 35 },
+    "Cricchetto": { "Nome": "5-70", "Attacco": 12, "Difesa": 8.5, "Resistenza": 9.5, "Altezza": 70 },
+    "Punta": { "Nome": "O", "Attacco": 10, "Difesa": 30, "Resistenza": 50, "Propulsione": 10, "Esplosione": 30 }
+  },
+  {
+    "Nome completo": "T. Rex 1-80GB",
+    "Linea": "Jurassic World Collab",
+    "Tipo": "Resistenza",
+    "Direzione spin": "Right",
+    "Lama": { "Nome": "T. Rex", "Linea": "Jurassic World Collab", "Tipo": "Resistenza", "Direzione spin": "Right", "Attacco": 65, "Difesa": 30, "Resistenza": 5 },
+    "Cricchetto": { "Nome": "1-80", "Attacco": 7, "Difesa": 4, "Resistenza": 9, "Altezza": 80 },
+    "Punta": { "Nome": "GB", "Attacco": 10, "Difesa": 15, "Resistenza": 45, "Propulsione": 30, "Esplosione": 30 }
+  },
+  {
+    "Nome completo": "Yell Kong 3-60GB",
+    "Linea": "Basic Line",
+    "Tipo": "Resistenza",
+    "Direzione spin": "Right",
+    "Lama": { "Nome": "Yell Kong", "Linea": "Basic Line", "Tipo": "Resistenza", "Direzione spin": "Right", "Attacco": 13, "Difesa": 37, "Resistenza": 50 },
+    "Cricchetto": { "Nome": "3-60", "Attacco": 15, "Difesa": 9, "Resistenza": 6, "Altezza": 60 },
+    "Punta": { "Nome": "GB", "Attacco": 10, "Difesa": 15, "Resistenza": 45, "Propulsione": 30, "Esplosione": 30 }
+  }
+]
